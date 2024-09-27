@@ -1,0 +1,21 @@
+#prepara tu cuaderno con las tablas de tu negocio
+
+#crear carpeta examen_v2_0777 de acuerdo a los 4 últimos números de matricula
+
+#Crear el archivo Python  Ej.  clasealumno0777.py de acuerdo a la tabla asignada por el profe
+
+#Crea la clase Comics1159
+
+#crea una función Dicionario_Comics()  7 ID, Serie, Genero, Comics Vendidos, Autor, Color, Precio
+
+#crea una función Dicionario_Empleados()  7 ID, Salario, Nombre Apellido, Celular, Sexo, Puesto
+
+#crea una función Dicionario_Mercancia()  7 ID, Cantidad de Figuras, Cantidad de Posters, Cantidad dePeluches, Cantidad de Marcadores, Serie, Precio
+
+#crea una función Dicionario_Ventas()  7 ID, Comic, Numero de Ventas, Serie, Genero, Direccion, Calificacion de comic
+
+#crear el objeto
+
+#utilizar los objetos
+
+llamadas a funciones.
